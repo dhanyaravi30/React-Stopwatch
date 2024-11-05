@@ -19,4 +19,4 @@ A simple stopwatch application built with **React** and **Tailwind CSS**. This a
 
 This project is deployed on Render.
 
-https://ai-chatbot-geminiapi.onrender.com
+https://react-stopwatch-kr.onrender.com/
